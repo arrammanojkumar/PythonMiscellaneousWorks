@@ -3,7 +3,8 @@ import tkFileDialog
 from src.main.com.personal.conversions.ImagesToPDF import ImagesToPDF
 
 
-directory=""
+directory = ""
+
 
 def display_in_center(window, width=400, height=400, title="My App"):
     """
